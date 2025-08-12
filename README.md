@@ -2,5 +2,5 @@
 ### Descrição
 ##### Projeto de Banco de dados de um e-commerce
 ### Projeto conceitual:
-<img width="877" height="1368" alt="DB_ConceptualProjectEcommerce" src="https://github.com/user-attachments/assets/ecd802a5-e82d-4ee2-8768-a3ebc0afee95" />
+<img width="941" height="904" alt="DB_ConceptualProjectMecanico" src="https://github.com/user-attachments/assets/3ae02f7f-e6ec-4d1e-bb87-e07f50d296e4" />
 
